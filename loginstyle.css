@@ -1,0 +1,30 @@
+h2{
+    color:red;text-size-adjust: unset;text-transform: uppercase;
+}
+.doc{
+    position: relative;top: 10px;
+}
+body{
+  background-color: lightblue;
+    background-repeat: no-repeat;
+   background-size: 1500px;
+}
+.youtube{
+    position: relative;left: 50px;
+}
+.fn1{
+    color:green;
+}
+a:hover{
+color: lawngreen;
+}
+.cinema:hover{
+    color: red;
+    background-color:goldenrod;
+}
+.doctor{
+    position: relative;left: 80px;
+}
+.container{
+    width: 500;
+}
